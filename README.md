@@ -2,11 +2,13 @@
  # H1 Schizophrenia
  
  What is Schizophrenia? 
-![image](https://github.com/athnalrn/athnalrn.github.io/assets/150888286/d2af5e73-2f01-4401-909c-88c5c4d99e85)
+![image](https://github.com/athnalrn/athnalrn.github.io/assets/150888286/eb01ff10-f76c-431e-aecf-c8d9886f8046)
+
 
 A severe and persistent mental illness, schizophrenia is defined by a wide spectrum of abnormalities in thinking, feeling, acting, and interacting with others. Schizophrenia patients frequently have a disconnection from reality, which can seriously impair their capacity to go about their daily lives normally. Although the exact cause of schizophrenia remains unknown, an intersection of genetic, biochemical, and environmental elements is thought to be responsible.
 
 Some symptoms of Schizophrenia 
+
 
 Hallucinations: False perceptions that are not based on reality.
 Delusions: Firmly held incorrect beliefs that are unaffected by logic or contradicting information.
