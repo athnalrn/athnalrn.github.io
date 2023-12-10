@@ -1,8 +1,8 @@
 # athnalrn.github.io
 Athena A. Alaurin
-#  Schizophrenia
-## What is Schizophrenia? 
-![]([image.jpg](https://www.health.com/thmb/oOS1HhfBVPxNlMUz2AtJ7HFe5Os=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-Schizophrenia-Overview-PaigeMcLaughlin-Final-e784ef4214264c8ea708309a09c4901e.jpg)https://www.health.com/thmb/oOS1HhfBVPxNlMUz2AtJ7HFe5Os=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-Schizophrenia-Overview-PaigeMcLaughlin-Final-e784ef4214264c8ea708309a09c4901e.jpg)
+ Schizophrenia
+ What is Schizophrenia? 
+![image](https://github.com/athnalrn/athnalrn.github.io/assets/150888286/d2af5e73-2f01-4401-909c-88c5c4d99e85)
 
 A severe and persistent mental illness, schizophrenia is defined by a wide spectrum of abnormalities in thinking, feeling, acting, and interacting with others. Schizophrenia patients frequently have a disconnection from reality, which can seriously impair their capacity to go about their daily lives normally. Although the exact cause of schizophrenia remains unknown, an intersection of genetic, biochemical, and environmental elements is thought to be responsible.
 
