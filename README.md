@@ -1,6 +1,6 @@
 # athnalrn.github.io
 Athena A. Alaurin
-# H1 Schizophrenia
+#  Schizophrenia
 ## H2 What is Schizophrenia? 
 ![schizophrenia]([image.jpg](https://www.health.com/thmb/oOS1HhfBVPxNlMUz2AtJ7HFe5Os=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-Schizophrenia-Overview-PaigeMcLaughlin-Final-e784ef4214264c8ea708309a09c4901e.jpg)https://www.health.com/thmb/oOS1HhfBVPxNlMUz2AtJ7HFe5Os=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-Schizophrenia-Overview-PaigeMcLaughlin-Final-e784ef4214264c8ea708309a09c4901e.jpg)
 
