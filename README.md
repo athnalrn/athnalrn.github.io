@@ -1,4 +1,4 @@
-# athnalrn.github.io
+
 ## Schizophrenia
  
  **What is Schizophrenia?**
